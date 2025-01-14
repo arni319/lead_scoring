@@ -1,0 +1,35 @@
+
+# ----- copied from github/gitignore
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+# ----- copied from github/gitignore
+
+# ----- other project related files 
+# csv files
+.csv
+
+# excel files
+.xlsx
+.xls
+
+# pdf files
+.pdf
+
+# word files
+.doc
+.docx
+
+# ppt files
+.pptx
+.ppt
+# ----- other project related files 
