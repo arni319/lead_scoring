@@ -16,20 +16,20 @@ ipython_config.py
 
 # ----- other project related files 
 # csv files
-.csv
+*.csv
 
 # excel files
-.xlsx
-.xls
+*.xlsx
+*.xls
 
 # pdf files
-.pdf
+*.pdf
 
 # word files
-.doc
-.docx
+*.doc
+*.docx
 
 # ppt files
-.pptx
-.ppt
+*.pptx
+*.ppt
 # ----- other project related files 
